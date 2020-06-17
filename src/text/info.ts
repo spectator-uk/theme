@@ -1,4 +1,4 @@
-import { ThemeTextDefinition } from '..';
+import { ThemeTextDefinition } from '..'
 
 export const info: ThemeTextDefinition = {
   fontFamily:
@@ -8,7 +8,7 @@ export const info: ThemeTextDefinition = {
 
   weight: {
     regular: 400,
-    bold: 600,
+    bold: 600
   },
 
   // Metrics: font-size, line-height, letter-spacing
@@ -21,10 +21,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '1.5rem',
           normal: '1.5rem',
-          spacious: '1.5rem',
+          spacious: '1.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xs: {
@@ -33,10 +33,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2rem',
           normal: '2rem',
-          spacious: '2rem',
+          spacious: '2rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       s: {
@@ -45,10 +45,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2.5rem',
           normal: '2.5rem',
-          spacious: '2.5rem',
+          spacious: '2.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       m: {
@@ -57,10 +57,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2.5rem',
           normal: '2.5rem',
-          spacious: '2.5rem',
+          spacious: '2.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       l: {
@@ -69,10 +69,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3rem',
           normal: '3rem',
-          spacious: '4rem',
+          spacious: '4rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xl: {
@@ -81,10 +81,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3rem',
           normal: '3rem',
-          spacious: '4rem',
+          spacious: '4rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xxl: {
@@ -93,11 +93,11 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3rem',
           normal: '3rem',
-          spacious: '4rem',
+          spacious: '4rem'
         },
 
-        letterSpacing: '0',
-      },
+        letterSpacing: '0'
+      }
     },
 
     // Tablet
@@ -108,10 +108,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2rem',
           normal: '2rem',
-          spacious: '2rem',
+          spacious: '2rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xs: {
@@ -120,10 +120,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2rem',
           normal: '2rem',
-          spacious: '2rem',
+          spacious: '2rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       s: {
@@ -132,10 +132,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2.5rem',
           normal: '2.5rem',
-          spacious: '2.5rem',
+          spacious: '2.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       m: {
@@ -144,10 +144,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3rem',
           normal: '3rem',
-          spacious: '3rem',
+          spacious: '3rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       l: {
@@ -156,10 +156,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3.5rem',
           normal: '3.5rem',
-          spacious: '3.5rem',
+          spacious: '3.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xl: {
@@ -168,10 +168,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3.5rem',
           normal: '3.5rem',
-          spacious: '3.5rem',
+          spacious: '3.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xxl: {
@@ -180,11 +180,11 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3.5rem',
           normal: '3.5rem',
-          spacious: '3.5rem',
+          spacious: '3.5rem'
         },
 
-        letterSpacing: '0',
-      },
+        letterSpacing: '0'
+      }
     },
 
     // Laptop and above
@@ -195,10 +195,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2rem',
           normal: '2rem',
-          spacious: '2rem',
+          spacious: '2rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xs: {
@@ -207,10 +207,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '2.5rem',
           normal: '2.5rem',
-          spacious: '2.5rem',
+          spacious: '2.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       s: {
@@ -219,10 +219,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3rem',
           normal: '3rem',
-          spacious: '3rem',
+          spacious: '3rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       m: {
@@ -231,10 +231,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3rem',
           normal: '3rem',
-          spacious: '4rem',
+          spacious: '4rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       l: {
@@ -243,10 +243,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3.5rem',
           normal: '3.5rem',
-          spacious: '3.5rem',
+          spacious: '3.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xl: {
@@ -255,10 +255,10 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3.5rem',
           normal: '3.5rem',
-          spacious: '3.5rem',
+          spacious: '3.5rem'
         },
 
-        letterSpacing: '0',
+        letterSpacing: '0'
       },
 
       xxl: {
@@ -267,11 +267,11 @@ export const info: ThemeTextDefinition = {
         lineHeight: {
           compact: '3.5rem',
           normal: '3.5rem',
-          spacious: '3.5rem',
+          spacious: '3.5rem'
         },
 
-        letterSpacing: '0',
-      },
-    },
-  },
-};
+        letterSpacing: '0'
+      }
+    }
+  }
+}
