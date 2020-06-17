@@ -28,5 +28,5 @@ export const color = {
   dynamic: '#ffc847',
 
   ghost: 'rgba(0, 0, 0, 0)',
-  ghostWhite: 'rgba(0, 0, 0, 0)',
-};
+  ghostWhite: 'rgba(0, 0, 0, 0)'
+}
