@@ -1,14 +1,13 @@
-import { DefaultTheme } from 'styled-components'
 import { heading } from './text/heading'
 import { color } from './colors/color'
 import { body } from './text/body'
 import { accent } from './text/accent'
 import { info } from './text/info'
 
-export type ThemeColors = keyof DefaultTheme['color']
+export type ThemeColors = keyof typeof color
 export type ThemeSizes = 'xxs' | 'xs' | 's' | 'm' | 'l' | 'xl' | 'xxl'
 export type ThemeTextLineHeights = 'compact' | 'normal' | 'spacious'
-export type ThemeTextWeights = keyof DefaultTheme['text']['body']['weight']
+export type ThemeTextWeights = keyof typeof body['weight']
 
 export type ThemeTextDefinition = {
   fontFamily: string
