@@ -4,7 +4,7 @@ import { body } from './text/body'
 import { accent } from './text/accent'
 import { info } from './text/info'
 
-export type ThemeColors = keyof typeof color
+export type ThemeColors = typeof color
 export type ThemeSizes = 'xxs' | 'xs' | 's' | 'm' | 'l' | 'xl' | 'xxl'
 export type ThemeTextLineHeights = 'compact' | 'normal' | 'spacious'
 export type ThemeTextWeights = keyof typeof body['weight']
