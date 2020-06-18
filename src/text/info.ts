@@ -242,32 +242,32 @@ export const info: ThemeTextDefinition = {
 
         lineHeight: {
           compact: '3.5rem',
-          normal: '3.5rem',
-          spacious: '3.5rem'
+          normal: '4rem',
+          spacious: '4.5rem'
         },
 
         letterSpacing: '0'
       },
 
       xl: {
-        size: '2.5rem',
+        size: '2.75rem',
 
         lineHeight: {
-          compact: '3.5rem',
-          normal: '3.5rem',
-          spacious: '3.5rem'
+          compact: '4rem',
+          normal: '4.5rem',
+          spacious: '5rem'
         },
 
         letterSpacing: '0'
       },
 
       xxl: {
-        size: '2.5rem',
+        size: '3rem',
 
         lineHeight: {
-          compact: '3.5rem',
-          normal: '3.5rem',
-          spacious: '3.5rem'
+          compact: '4rem',
+          normal: '4.5rem',
+          spacious: '5rem'
         },
 
         letterSpacing: '0'
